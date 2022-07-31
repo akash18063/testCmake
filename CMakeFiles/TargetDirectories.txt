@@ -1,0 +1,4 @@
+/home/akash_gosain/projects/practice/cpp/testCode/testCmake/CMakeFiles/rebuild_cache.dir
+/home/akash_gosain/projects/practice/cpp/testCode/testCmake/CMakeFiles/edit_cache.dir
+/home/akash_gosain/projects/practice/cpp/testCode/testCmake/CMakeFiles/helloWorld.dir
+/home/akash_gosain/projects/practice/cpp/testCode/testCmake/CMakeFiles/name.dir
