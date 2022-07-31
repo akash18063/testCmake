@@ -1,0 +1,4 @@
+/home/akash_gosain/projects/practice/cpp/testCode/testCmake/build/CMakeFiles/rebuild_cache.dir
+/home/akash_gosain/projects/practice/cpp/testCode/testCmake/build/CMakeFiles/edit_cache.dir
+/home/akash_gosain/projects/practice/cpp/testCode/testCmake/build/CMakeFiles/client.dir
+/home/akash_gosain/projects/practice/cpp/testCode/testCmake/build/CMakeFiles/library.dir

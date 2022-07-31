@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/akash_gosain/projects/practice/cpp/testCode/testCmake/include/name.h
+iostream
+-
+vector
+-
+
+/home/akash_gosain/projects/practice/cpp/testCode/testCmake/name.cpp
+iostream
+-
+include/name.h
+/home/akash_gosain/projects/practice/cpp/testCode/testCmake/include/name.h
+

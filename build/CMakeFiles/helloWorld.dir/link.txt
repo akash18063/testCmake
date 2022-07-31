@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/helloWorld.dir/test.cpp.o  -o helloWorld  libname.a 
