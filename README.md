@@ -1,0 +1,2 @@
+# testCmake
+Basics of cmake
